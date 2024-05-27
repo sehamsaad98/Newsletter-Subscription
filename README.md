@@ -7,20 +7,17 @@ A Laravel project to handle newsletter subscriptions via both an API and a front
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Installation
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/sehamsaad98/Newsletter-Subscription.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd your-repository
+    cd Newsletter
     ```
 
 3. Install the dependencies:
@@ -54,22 +51,14 @@ A Laravel project to handle newsletter subscriptions via both an API and a front
 ## Usage
 
 - To access the front-end form, navigate to `http://localhost:8000`.
-- To access the API, use a tool like Postman to send requests to `http://localhost:8000/api/subscribe`.
+- To access the API, use a tool like Postman to send requests to `http://localhost:8000/api/newsletter/subscribe
 
 ## Features
 
 - Email subscription via API and front-end form.
 - Success messages displayed on form submission.
-- Centralized service for handling subscription logic.
+- use service for handling subscription logic.
 
-## Contributing
 
-Contributions are welcome! Please fork this repository and submit a pull request for any changes.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions, please contact [your-email@example.com](mailto:your-email@example.com).
