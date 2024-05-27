@@ -1,6 +1,6 @@
 # Newsletter Subscription Project
 
-A Laravel project to handle newsletter subscriptions via both an API and a front-end form.
+A Laravel project to handle newsletter subscriptions through  both an API and a front-end form.
 
 ## Table of Contents
 
@@ -55,7 +55,7 @@ A Laravel project to handle newsletter subscriptions via both an API and a front
 
 ## Features
 
-- Email subscription via API and front-end form.
+- Email subscription through  API and front-end form.
 - Success messages displayed on form submission.
 - use service for handling subscription logic.
 
